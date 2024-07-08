@@ -2,6 +2,9 @@
 target/
 *.iml
 
+# Environment variables
+.env*
+
 # Compiled class file
 *.class
 
